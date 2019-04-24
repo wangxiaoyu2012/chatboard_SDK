@@ -1,0 +1,206 @@
+.item-check {
+  background-color: #4fc1b0;
+}
+.el-progress-circle__path {
+  stroke: #4fc1b0;
+}
+.svgMeeting.active .svgColor,
+.svgContacts.active .svgColor,
+.svgFavorites.active .svgColor {
+  fill: #4fc1b0;
+}
+.svgMeeting.active .strokeColor,
+.svgContacts.active .strokeColor,
+.svgFavorites.active .strokeColor {
+  stroke: #4fc1b0;
+}
+.svgMeeting .strokeColor,
+.svgContacts .strokeColor,
+.svgFavorites .strokeColor {
+  stroke: #979797;
+}
+.svgMeeting .svgColor,
+.svgContacts .svgColor,
+.svgFavorites .svgColor {
+  fill: #979797;
+}
+.meetingDefaultFill,
+.contactDefaultFill,
+.cloudDiskDefaultFill {
+  fill: #4fc1b0;
+}
+.contactDefaultStroke {
+  stroke: #4fc1b0;
+}
+#coreLogo {
+  color: #4fc1b0;
+}
+.container-fluid #content #message-list .aboutMeWrap .headerTitle .goBackHomeList {
+  color: #4fc1b0;
+  cursor: pointer;
+}
+.container-fluid .loginscreen input.ui-material-input-textfield:focus,
+.container-fluid .container-fluid .loginscreen input.ui-material-input-textfield[type=text]:focus,
+.container-fluid .container-fluid .loginscreen input.ui-material-input-textfield[type=email]:focus,
+.container-fluid .container-fluid .loginscreen input.ui-material-input-textfield[type=name]:focus,
+.container-fluid .container-fluid .loginscreen input.ui-material-input-textfield[type=password]:focus {
+  border-color: #4fc1b0;
+  outline: inherit;
+  box-shadow: inherit;
+}
+.container-fluid #content #message-list .meetingInfoHome .commentModule .addComments .upload-demo .el-upload-list__item .el-upload-list__item-name:hover {
+  color: #4fc1b0;
+}
+.container-fluid #content .CoordinationWrap .cloudDisk .upload-demo .el-upload .el-upload-dragger.is-dragover {
+  border: 1px dashed #4fc1b0;
+  background-color: #fff;
+}
+.container-fluid #modal6 .personal-el-wrap .changePhone:hover {
+  color: #4fc1b0;
+}
+.container-fluid .loginscreen .btn-submit {
+  background-color: #4fc1b0;
+}
+.container-fluid .loginscreen .js-input-wrap .verificationCode {
+  background-color: #4fc1b0;
+}
+.container-fluid .loginscreen .welcomePage .mainCard .personalDataEdit .inputWrap .el-icon-check {
+  color: #4fc1b0;
+}
+.container-fluid #modal6 .personalSettingsWrap .mainCard .personalDataEdit .inputWrap .el-icon-check {
+  color: #4fc1b0;
+}
+.container-fluid #content .searchInvitationCode .search .el-icon-circle-check {
+  color: #4fc1b0;
+}
+.container-fluid #content .CoordinationWrap .cloudDisk .fileWrap .file .fileName:hover {
+  color: #4fc1b0;
+}
+.container-fluid #content .CoordinationWrap .cloudDisk .fileWrap .file.active {
+  background-color: #f1f5fa;
+  border: 1px solid #4fc1b0;
+  border-radius: 5px;
+}
+.container-fluid .el-dropdown-menu__item:focus,
+.container-fluid .el-dropdown-menu__item:not(.is-disabled):hover {
+  background-color: #f8fff7;
+  color: #4fc1b0;
+}
+.container-fluid .elButtonPrimary {
+  color: #fff;
+  border-color: #4fc1b0;
+  background-color: #4fc1b0;
+}
+.container-fluid .elButtonPrimary.el-button:focus,
+.container-fluid .elButtonPrimary.el-button:hover {
+  color: #fff;
+  border-color: #4fc1b0;
+  background-color: #4fc1b0;
+}
+.container-fluid .el-textarea__inner:focus {
+  border-color: #4fc1b0;
+}
+.container-fluid .el-checkbox__input.is-focus .el-checkbox__inner {
+  border-color: #4fc1b0;
+}
+.container-fluid .el-icon-close:hover {
+  color: #4fc1b0;
+}
+.container-fluid .el-button.is-plain:focus,
+.container-fluid .el-button.is-plain:hover {
+  color: #fff;
+  background: #4fc1b0;
+  border-color: #4fc1b0;
+}
+.container-fluid .el-button--primary.is-plain:focus,
+.container-fluid .el-button--primary.is-plain:hover {
+  color: #fff;
+  background: #4fc1b0;
+  border-color: #4fc1b0;
+}
+.container-fluid .el-button--danger.is-plain:focus,
+.container-fluid .el-button--danger.is-plain:hover {
+  color: #fff;
+  background-color: #f56c6c;
+  border-color: #f56c6c;
+}
+.container-fluid .el-button--info.is-plain:focus,
+.container-fluid .el-button--info.is-plain:hover {
+  color: #fff;
+  background-color: #909399;
+  border-color: #909399;
+}
+.container-fluid .el-button--primary.is-plain {
+  color: #4fc1b0;
+  background: #fff;
+  border-color: #4fc1b0;
+}
+.container-fluid .el-notification__closeBtn {
+  right: 10px;
+}
+.container-fluid .el-cascader-menu__item.is-active {
+  color: #4fc1b0;
+}
+.container-fluid .el-button:focus,
+.container-fluid .el-button:hover {
+  background-color: #fff;
+  border-color: #dcdfe6;
+  color: #606266;
+}
+.container-fluid .el-loading-spinner .path {
+  stroke: #4fc1b0;
+}
+.container-fluid .el-tabs__item.is-active {
+  color: #4fc1b0;
+}
+.container-fluid .el-tabs__item:hover {
+  color: #4fc1b0;
+}
+.container-fluid .el-tabs__active-bar {
+  background-color: #4fc1b0;
+}
+.container-fluid .el-button--primary:focus,
+.container-fluid .el-button--primary:hover {
+  background: #4fc1b0;
+  border-color: #4fc1b0;
+  color: #fff;
+}
+.container-fluid .el-input.is-active .el-input__inner,
+.container-fluid .el-input__inner:focus {
+  border-color: #4fc1b0;
+  outline: 0;
+}
+.container-fluid .el-icon-close:hover {
+  border-color: #4fc1b0;
+}
+.container-fluid .el-checkbox__inner:hover {
+  border-color: #4fc1b0;
+}
+.container-fluid .el-checkbox__input.is-checked + .el-checkbox__label {
+  color: #4fc1b0;
+}
+.container-fluid .el-checkbox__input.is-checked .el-checkbox__inner,
+.container-fluid .el-checkbox__input.is-indeterminate .el-checkbox__inner {
+  background-color: #4fc1b0;
+  border-color: #4fc1b0;
+}
+.container-fluid .el-button--default:hover {
+  color: #4fc1b0;
+  border-color: #4fc1b0;
+  background-color: #fff;
+}
+.container-fluid .el-select-dropdown__item.selected {
+  color: #4fc1b0;
+  font-weight: 700;
+}
+.container-fluid .el-button--primary,
+.container-fluid .el-button--primary-confirm {
+  background-color: #4fc1b0;
+  border-color: #4fc1b0;
+}
+.container-fluid .el-button--primary:hover,
+.container-fluid .el-button--primary-confirm:hover {
+  color: #fff;
+  background-color: #4fc1b0;
+  border-color: #4fc1b0;
+}
