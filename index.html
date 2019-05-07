@@ -1282,8 +1282,9 @@
     * 第一部分为demo部分，用户可以根据自己的业务情况自行更改；
     * 第二部分为SDK部分，用户集成白板SDK需将整体结构引入到项目中，引入bundle.js，进入会议调用
     *   chatboard.init({
-            meetingName(会议名称): String,
             meetingId(会议Id): String,
+            meetingName(会议名称): String,
+            appId(集成SDK的用户Id): String,
             memberVO: {
                 roleId(角色Id): Number,
                 userId(用户Id): String,
@@ -1327,6 +1328,7 @@
                         chatboard.init({
                             meetingName: meetingInfo.name,
                             meetingId: meetingInfo.meetingId,
+                            appId: `b289e574dbae4ed9b63702877ff2b51f`,
                             memberVO: {
                                 roleId: meetingInfo.roleId,
                                 userId: this.userMes.userId,
@@ -1350,7 +1352,8 @@
                         chatboard.init({
                             memberVO: author,
                             meetingName: value,
-                            meetingId: meetingInfo.meetingId
+                            meetingId: meetingInfo.meetingId,
+                            appId: `b289e574dbae4ed9b63702877ff2b51f`
                         })
                     });
                 }).catch(() => {});
@@ -1360,6 +1363,7 @@
                 chatboard.init({
                     meetingName: meeting.name,
                     meetingId: meeting.meetingId,
+                    appId: `b289e574dbae4ed9b63702877ff2b51f`,
                     memberVO: meeting.members.find(item => item.userId === this.userMes.userId)
                 })
             },
