@@ -4866,9 +4866,9 @@ body .el-dropdown-menu__item .opinion {
   height: 570px;
   box-sizing: border-box;
   position: relative;
-  padding: 0;
   margin: 0;
   overflow: hidden;
+  padding-top: 30px;
 }
 #content .CoordinationWrap {
   float: left;
